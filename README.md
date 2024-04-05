@@ -1,4 +1,4 @@
-# Knowledge-Distillation-from-AlexNet
+# Knowledge-Distillation
 
 In this experiment, we conduct a comparative study of three lightweight student models to observe and understand the impact of relation-based knowledge distillation from a pretrained teacher model on an image classification task with a restricted number of training epochs.
 
